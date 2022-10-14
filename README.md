@@ -61,7 +61,7 @@ Sunday             ███████░░░░░░░░░░░░░�
 
 
 <h3 align="left">Support:</h3>
-<p><br></p>
+<p align="center"><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes" height="200"/></p>
 
@@ -70,7 +70,7 @@ Sunday             ███████░░░░░░░░░░░░░�
 -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes" /></p>
-
+</p>
 <br/>
 ---
 <br/>
