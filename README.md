@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Data Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bluesaiyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="bluesaiyancodes" /> </p>
-
+<p align="center">
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
@@ -16,7 +16,7 @@
 - 👨‍💻 Can find more about me at [bluesaiyancodes.github.io](bluesaiyancodes.github.io)
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
-
+</p><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes" alt="bluesaiyancodes" /></a> </p>
 
 <!--START_SECTION:waka-->
