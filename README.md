@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
 </p><br><br><p></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes" alt="bluesaiyancodes" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes&row=1" alt="bluesaiyancodes" /></a> </p>
 
 <!--START_SECTION:waka-->
 **I'm Most Productive on Sunday and a Night 🦉** 
