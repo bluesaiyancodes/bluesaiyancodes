@@ -61,7 +61,7 @@ Sunday             ███████░░░░░░░░░░░░░�
 
 
 <h3 align="left">Support:</h3>
-</p><br><br><p></p>
+</p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes" height="200"/></p>
 
@@ -72,3 +72,5 @@ Sunday             ███████░░░░░░░░░░░░░�
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes" /></p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/bluesaiyancodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bluesaiyancodes" /></a></p>
+
+<br><p></p>
