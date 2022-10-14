@@ -2,6 +2,7 @@
 <h3 align="center">Machine Learning Data Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bluesaiyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="bluesaiyancodes" /> </p>
+
 <p align="center">
 <img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -18,6 +19,10 @@
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
 </p><br><br><p></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes&row=1" alt="bluesaiyancodes" /></a> </p>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/bluesaiyancodes"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bluesaiyancodes" /></a>
+</p><br>
 
 <!--START_SECTION:waka-->
 **I'm Most Productive on Sunday and a Night 🦉** 
@@ -63,16 +68,14 @@ Sunday             ███████░░░░░░░░░░░░░�
 <h3 align="left">Support:</h3>
 <p align="center"><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes" height="200"/>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluesaiyancodes&show_icons=true&locale=en" alt="bluesaiyancodes"  height="200"/></p>
 -->
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes" /></p>
 </p>
 
-<br/>
-<p align="center"><a href="https://www.buymeacoffee.com/bluesaiyancodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bluesaiyancodes" /></a></p>
 
 
