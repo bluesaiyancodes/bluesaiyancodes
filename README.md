@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishal</h1>
+<h1 align="center">Hi 👋, I'm Bishal (비샬)</h1>
 <h3 align="center">Machine Learning Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluesaiyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="bluesaiyancodes" /> </p>
@@ -14,8 +14,6 @@
 - 👨‍💻 Can find more about me at [bluesaiyancodes.github.io](bluesaiyancodes.github.io)
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
-
-- 📫 How to reach me **bluesaiyancodes.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
