@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishal (비샬)</h1>
+<h1 align="center">Hi 👋, I'm Bishal ( 비샬 )</h1>
 <h3 align="center">Machine Learning Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluesaiyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="bluesaiyancodes" /> </p>
