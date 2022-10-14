@@ -5,7 +5,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes" alt="bluesaiyancodes" /></a> </p>
+
 
 - 🔭 I’m currently working in [Allergic Rhinitis](https://github.com/bluesaiyancodes/Allergic-Rhinitis)
 
@@ -16,6 +16,8 @@
 - 👨‍💻 Can find more about me at [bluesaiyancodes.github.io](bluesaiyancodes.github.io)
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesaiyancodes" alt="bluesaiyancodes" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
