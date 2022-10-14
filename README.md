@@ -68,13 +68,13 @@ Sunday             ███████░░░░░░░░░░░░░�
 <h3 align="left">Support:</h3>
 <p align="center"><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes"  height="150"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesaiyancodes&show_icons=true&locale=en&layout=compact" alt="bluesaiyancodes"  height="170"/>
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bluesaiyancodes&show_icons=true&locale=en" alt="bluesaiyancodes"  height="200"/>
 -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes"   height="150"/></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesaiyancodes&" alt="bluesaiyancodes"   height="170"/></p>
 </p>
 
 
