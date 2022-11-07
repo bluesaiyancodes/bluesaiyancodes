@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision related Projects**
 
-- 👨‍💻 Can find more about me at [bluesaiyancodes.github.io](bluesaiyancodes.github.io)
+- 👨‍💻 Can find more about me at [bluesaiyancodes.github.io](https://bluesaiyancodes.github.io)
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Android, Networking, Technology**
 </p><br><br><p></p>
