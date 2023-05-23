@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working in [Allergic Rhinitis](https://github.com/bluesaiyancodes/Allergic-Rhinitis)
+- 🔭 I’m currently working in [Allergic Rhinitis](https://github.com/bluesaiyancodes/Allergic-Rhinitis) and Steel Image Segmentation
 
 - 🌱 I’m currently learning **various Deep Learning Frameworks**
 
