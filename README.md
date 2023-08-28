@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working in Steel Image Segmentation [Sorry private repo for now]
+- 🔭 I’m currently working in Steel Image Segmentation and Bio-medical Image Segmentation [Sorry private repos for now]
 
 - 🌱 I’m currently learning **various Deep Learning Frameworks**
 
