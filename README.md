@@ -34,6 +34,7 @@ with a focus on robust segmentation and learning under distribution shift.
 ### 📄 Publications & venues
 - MICCAI 24, 25
 - WACV 26
+- CVPR 26
 - Actively targeting **CVPR / ICCV / ICLR / ICML**
 
 ### 🤝 Collaboration
